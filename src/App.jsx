@@ -4,7 +4,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min'
 import Footer from "./components/Footer";
 import ImageSlider from "./components/ImageSlider";
-import About from "./components/About";
+
 function App() {
   const slides =[
     {url:"/cart.jpg", title:"Cart"},
