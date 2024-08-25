@@ -13,7 +13,7 @@ function App() {
     {url:"/setup.jpg", title:"setup"},
     {url:"/headphone.jpg", title:"headphone"},
   ]
-
+//Essential URL for images
   const containerStyles={
     width: '500px',
     height: "280px",
